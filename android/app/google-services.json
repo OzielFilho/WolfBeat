@@ -1,0 +1,103 @@
+{
+  "project_info": {
+    "project_number": "208534198728",
+    "firebase_url": "https://firefly-c82b1.firebaseio.com",
+    "project_id": "firefly-c82b1",
+    "storage_bucket": "firefly-c82b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208534198728:android:7d009785efbf18def748fd",
+        "android_client_info": {
+          "package_name": "com.codefactory.wolfbeat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "208534198728-til2rlh1le3voo76p2em6gssq3o4n28n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codefactory.wolfbeat",
+            "certificate_hash": "457fc526223e7de0103da1cc3b87712435ac9c73"
+          }
+        },
+        {
+          "client_id": "208534198728-prgmj93mpp631dmevkmqvfgrb1f4sfs9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codefactory.wolfbeat",
+            "certificate_hash": "eaea5422db1b4ca7fef87bc8c349be6c8f8bca6f"
+          }
+        },
+        {
+          "client_id": "208534198728-e8fuiib1gmvnpbei5hk6ph5lqhou5ejn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codefactory.wolfbeat",
+            "certificate_hash": "5e099fe4749da27dfa50af859cc2e29e4fbe6eeb"
+          }
+        },
+        {
+          "client_id": "208534198728-ps3m2udciegac45opp05t3ggevlrnqac.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codefactory.wolfbeat",
+            "certificate_hash": "d813b591472d1e8035ded0a62a76268a633c4670"
+          }
+        },
+        {
+          "client_id": "208534198728-sqhuqkl0b045209pc9thc65dunr4msda.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codefactory.wolfbeat",
+            "certificate_hash": "999cb724f0d6151d6732a86b8fca96f8b06f7c23"
+          }
+        },
+        {
+          "client_id": "208534198728-9ierf7visu4dlmhf1okrjhn8hojedrat.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codefactory.wolfbeat",
+            "certificate_hash": "bd3f25a31692b219ca9c71b7d6f0fc05c3bdb4a2"
+          }
+        },
+        {
+          "client_id": "208534198728-r1mtimct75ahaoi5fbqb2fdtm399li8j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codefactory.wolfbeat",
+            "certificate_hash": "0f9b7761a5ac8f4af8491b734bedbf4cdb39cad1"
+          }
+        },
+        {
+          "client_id": "208534198728-3gihv9lhkm9d29ai9fc2qpjnpr3tfk8n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVaV3D1fT3jcyjGMA4eRE8mY6c7gJXALc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "208534198728-3gihv9lhkm9d29ai9fc2qpjnpr3tfk8n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "208534198728-chdtsjsl4i8c79mn3dbc0thaje000oeu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.musicables.firefly"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
